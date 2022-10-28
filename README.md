@@ -1,6 +1,12 @@
 Hello World!!
 
+<<<<<<< HEAD
 Test
+=======
+test2
+>>>>>>> 326ed3cca8162525bdf9191688eb3392f9484333
+
+test
 
 this is README file for simple git workflow# be-simple-git-workflow
 
